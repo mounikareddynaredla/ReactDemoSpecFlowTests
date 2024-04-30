@@ -1,0 +1,5 @@
+C:\Users\AVM\source\repos\ReactSpecFlowTests\obj\Debug\netcoreapp3.1\ReactSpecFlowTests.csproj.AssemblyReference.cache
+C:\Users\AVM\source\repos\ReactSpecFlowTests\obj\Debug\netcoreapp3.1\ReactSpecFlowTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVM\source\repos\ReactSpecFlowTests\obj\Debug\netcoreapp3.1\ReactSpecFlowTests.AssemblyInfoInputs.cache
+C:\Users\AVM\source\repos\ReactSpecFlowTests\obj\Debug\netcoreapp3.1\ReactSpecFlowTests.AssemblyInfo.cs
+C:\Users\AVM\source\repos\ReactSpecFlowTests\obj\Debug\netcoreapp3.1\ReactSpecFlowTests.csproj.CoreCompileInputs.cache

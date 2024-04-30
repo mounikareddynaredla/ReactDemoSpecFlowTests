@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shared Project Folder\\ReactSpecFlowTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|c:\\shared project folder\\reactspecflowtests\\drivers\\driverscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|solutionrelative:drivers\\driverscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|c:\\shared project folder\\reactspecflowtests\\steps\\loginstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|solutionrelative:steps\\loginstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|c:\\shared project folder\\reactspecflowtests\\features\\w3schoolsregression.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|solutionrelative:features\\w3schoolsregression.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|c:\\shared project folder\\reactspecflowtests\\hooks\\hookinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|solutionrelative:hooks\\hookinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|c:\\shared project folder\\reactspecflowtests\\app-config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|solutionrelative:app-config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|c:\\shared project folder\\reactspecflowtests\\utils\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|solutionrelative:utils\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|c:\\shared project folder\\reactspecflowtests\\pageobjects\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|solutionrelative:pageobjects\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|c:\\shared project folder\\reactspecflowtests\\features\\w3schoolsregression.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48667C38-0707-419A-A678-A119B04840DF}|ReactSpecFlowTests.csproj|solutionrelative:features\\w3schoolsregression.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Shared Project Folder\\ReactSpecFlowTests\\obj\\Debug\\netcoreapp3.1\\ReactSpecFlowTests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\netcoreapp3.1\\ReactSpecFlowTests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverScript.cs",
+              "DocumentMoniker": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Drivers\\DriverScript.cs",
+              "RelativeDocumentMoniker": "Drivers\\DriverScript.cs",
+              "ToolTip": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Drivers\\DriverScript.cs",
+              "RelativeToolTip": "Drivers\\DriverScript.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:57:39.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HookInitialization.cs",
+              "DocumentMoniker": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Hooks\\HookInitialization.cs",
+              "RelativeDocumentMoniker": "Hooks\\HookInitialization.cs",
+              "ToolTip": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Hooks\\HookInitialization.cs",
+              "RelativeToolTip": "Hooks\\HookInitialization.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAIA6wIAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:57:00.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Utils\\Utilities.cs",
+              "RelativeDocumentMoniker": "Utils\\Utilities.cs",
+              "ToolTip": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Utils\\Utilities.cs",
+              "RelativeToolTip": "Utils\\Utilities.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:54:08.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-config.json",
+              "DocumentMoniker": "C:\\Shared Project Folder\\ReactSpecFlowTests\\app-config.json",
+              "RelativeDocumentMoniker": "app-config.json",
+              "ToolTip": "C:\\Shared Project Folder\\ReactSpecFlowTests\\app-config.json",
+              "RelativeToolTip": "app-config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T09:14:53.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginStepDefinition.cs",
+              "DocumentMoniker": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Steps\\LoginStepDefinition.cs",
+              "RelativeDocumentMoniker": "Steps\\LoginStepDefinition.cs",
+              "ToolTip": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Steps\\LoginStepDefinition.cs",
+              "RelativeToolTip": "Steps\\LoginStepDefinition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:58:26.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Shared Project Folder\\ReactSpecFlowTests\\PageObjects\\Login.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Login.cs",
+              "ToolTip": "C:\\Shared Project Folder\\ReactSpecFlowTests\\PageObjects\\Login.cs",
+              "RelativeToolTip": "PageObjects\\Login.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAewEMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:56:17.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "w3schoolsregression.feature",
+              "DocumentMoniker": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Features\\w3schoolsregression.feature",
+              "RelativeDocumentMoniker": "Features\\w3schoolsregression.feature",
+              "ToolTip": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Features\\w3schoolsregression.feature",
+              "RelativeToolTip": "Features\\w3schoolsregression.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAe1SURBVFhHtVZZbBx3Gf/N7H37WN/Juo7dkNgJxamCUsdYpSVp66QV4VAReUBViCDiqVLEC1QKKi\u002BgojyAACF4QqXKSwSkLbQobZOobhIpVmLHTnzfazu29/Duzs7szO7wff9Z3y5qVfNb/Wd2/sf3\u002B\u002B4ZCetws/e2qagKVE3Fw\u002BggDDNfXPlisEs27KvdC7fLDa/biyMHv2rxmqa5qsDPf/8Ls3uiGzk5DjgyMOQ0zZqAtEHHzw\u002BTZECCveAHdB\u002BchVIcqj\u002BEV7/3E5SXhS3pr77xU/OTkS6U70mgtt5EyOtFyBMgbmlH\u002BMlQJLMpJBUF0QkJS6MleKqxDRfP/1qS/nHtbfMv7/8Z7rpRHGqpQkfdc2gINcFlc7HihM0asEWMz6oZawBoeQ1jyWFcn3kP3X3zyM7swZljZyBdvPRb83LPH3CkzYeXm0\u002BjyleBVC4Bo6AXBWzGdgpIkCnOBdMoPm\u002BFXXYg4CzBfGYBl/rfxM2P0zj15XOQh6cHESzX0VjWgKDTgwVlBlkjjRxprBe2DpejAn53E3E6oOdzNJeDx1mDylA7vK6I2JMTQ109w7JYJstmDuYKhA0MzwxC7p24h/KwEx6HS2zK04\u002BxFntTxJCHx1GJ3WXP0TiOCN3tdh8cNj\u002BqQ20o8zWjtqQdTlupcJIk8tsSsiKLZTMHc4WJs3f8HuRH6UWyygYbu5B\u002B1sGt4FmZrOZBqUlWV8JlD4kVm\u002Bymu0lEJMdG68TosAeFchQcPi7AspmDuZwOGcwt82bGSmQF0zo4bCFybTXN26Dk5hHL9BGBJZSoyTMGxV4nQXbEMw\u002Bh6jGUeB5HQ/gk6ss74XPtEnsFirJXs4i4ZXKuWOC1TdwIevagsfIUGitOoa6kAzIl0lzyJqKJaxR/6hWFLO0yoRspMT\u002B/fAt\u002BZy1qKBQeRxWR18DrrBLhW5G\u002BwsN2M7fM7twKspDOBCipXPYyymAPKgKtqA4eISXseJS6g5nER8iTApz586nbpEAXnPYSVIWeEq43Kd6qvoRMbk5Yus7HAkInGmsB2oCCuCbVESjaLGVxGqoRh9tRDh9ZyCfT6pTwQp7cn9GiNMNnTCykujET/5DGB5iK/YfOR4Us4YWNOgh8igIEUjqjTmNs8QqG5t/C8PwlTCy9g7Q2VdxgmWD5z5LMFqfUUcSVB0goQ6Rgei1f2AvbOPvTFSCwWG4wHAavs5pcHILd5qXZdZIEt/XMFVLmfwJ7q06jufYs9tecQVPly1RlZZ/fA7zfTcS7yr6Bx8KdiJS/gLrSZ6jOg7xKlDbKDVKGLPO5aonciQJ1z4QyAEV/RKXpFApxIvqpEjgnWNHNOlAVbAe2yKSOF6HDu6lu3cKVcSpBjjfXdth/UAhmcBOqCR0Vbjao0czGbyCRHREyuHQz6qxQ2FLcYhQ\u002BowtVAYHmRDmugpuKBE2PQ6Pk0wsZzCdvYSl9XyjCnbCu9FkKSVAo46ReURl8kjz1EjWgELXhNOXO39Ef/RMG596kBH4k5K2wMhezcQX\u002BzxxIa5OYXPoXxhffFtnNJVfq208Wt4h1mdxsuZZqgD5eAu564Q2rtMkAY7m4Xiz2bdwt14VqkdUMaiqGiLvVNCxwaWX1BeF2JmApnIy8wmscY55XjZhFSd7hdmyB5AhWCyxVWE5/mCur5cHccnPkAJYWdCxrKepo9DrdpARPrMoxC5QHD6gvpCg8S1jOjtKahLlEFyZi7yEa/wiL5CkhRKysabBSBczBXMzZUn8QcmVpFTIxD0aWpjC9PI28USAesq9Arw1xp7ZEw6SLacrUgCYxunCZxj\u002BxrEzSnERCs1hc7qFueBs5IyPOk2uKcixZ/J9lMwdzKcRZUVIJ2/d/cPrC3cFBKJS9UihGm/OQCjbk9QJZqSOn58Qw85Y1NpuN5ul7gT5eeV3RrLumG7TPgJbLWYPO8FDFs4aUlsZEahz9iX7092WhLZbj6L52SDfu3DDfvfU\u002B3un\u002BN8K7smjab4fPK1Mds8e4GkAvGB/aKzoQ8PjJsAJymo5YLob\u002B5T7EsnFy9LpcXhd3ARFNsp68mMkUMPzQwOK0G52tL\u002BDEkeNr27vudpm//Osb0KQUfezkUOCvYruGphYTrTXNaAkeIOEmtVsNk\u002Bo4BhLDGJtQkJz1Und0FKVsD5OUVlUZmiLBK5Xg9Vd\u002BhrbWNsG9Qd9rt6\u002Bb98b6hZW9oz3ojX2AjqeDaAu3IUT1nabX7pA6QDU\u002Bj75eFQHjcXR\u002B5QRS2QxmFmYRTyWFu/MUxqLpRM7NRkJ1RTUa6xrQWB3Bi0\u002BfXOXd7DCB8Zlx84e/OYeSpkkc3d\u002BAfZ4DmMtFMZIdwmRURd\u002BdAvZVtOJrB4/ix986u62Mz4ptD7/2x9fNdx9cwrPHvfiSfy\u002BSRgJDsWmMDphIRAM4vOcwfnf\u002B4hciXsGWTnj11lXz\u002Bv2PEXnMDsmuY0Ibw92JKfTcJL54BCefPLFj5IwtCrx19TKyZgw1u4GsmkfPfQV3P5HwRE0Hnj90DN9s7yzu3BlssOTKh1fMC3/7FSoiGdRGTAz0yNBTfrxy7DTOffdHO2b1emzwQDKVgt/jQjJmoq/bAVMpR\u002BfhY/j2118q7th5bFCgYVeDaDqZmB0BqRrnv3MOF86\u002BJlWGa/4v1gPAfwHwIMDOoOB3gAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-29T07:54:55.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "w3schoolsregression.feature.cs",
+              "DocumentMoniker": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Features\\w3schoolsregression.feature.cs",
+              "RelativeDocumentMoniker": "Features\\w3schoolsregression.feature.cs",
+              "ToolTip": "C:\\Shared Project Folder\\ReactSpecFlowTests\\Features\\w3schoolsregression.feature.cs",
+              "RelativeToolTip": "Features\\w3schoolsregression.feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:54:53.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReactSpecFlowTests.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Shared Project Folder\\ReactSpecFlowTests\\obj\\Debug\\netcoreapp3.1\\ReactSpecFlowTests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\netcoreapp3.1\\ReactSpecFlowTests.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Shared Project Folder\\ReactSpecFlowTests\\obj\\Debug\\netcoreapp3.1\\ReactSpecFlowTests.GlobalUsings.g.cs",
+              "RelativeToolTip": "obj\\Debug\\netcoreapp3.1\\ReactSpecFlowTests.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:19:46.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
